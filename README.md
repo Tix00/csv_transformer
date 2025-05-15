@@ -140,6 +140,8 @@ pytest tests/
 ├── main.py
 ├── reader.py
 ├── writer.py
+├── tests/
+│   ├── ...
 ├── transformers/
 │   ├── base.py
 │   ├── uuid_seq.py
